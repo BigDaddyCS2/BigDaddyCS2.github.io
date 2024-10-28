@@ -161,3 +161,31 @@ body.vertigo {
 .flexcontainer .content a:hover {
     background: #000000c4;
 }
+
+@media (max-width: 700px) {
+    .flexcontainer {
+        grid-template-columns: 1fr;
+    }
+
+    .smokeContainer .image-container {
+        flex-direction: column;
+        height: 1000px;
+    }
+
+    .image-container .wide-image {
+        flex: 1;
+    }
+
+    .image-container .small-image {
+        flex: 2;
+    }
+}
+
+.home h3 {
+    color: black;
+    font-size: 25px;
+}
+
+.home a {
+    text-decoration: none;
+}
