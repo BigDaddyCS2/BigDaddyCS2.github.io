@@ -56,6 +56,12 @@ body.vertigo {
     height: 100vh;
 }
 
+body.ancient {
+    background: url("img/ancient.png") center center repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
 .smokeContainer {
     display: flex;
     flex-direction: column;

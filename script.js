@@ -4,6 +4,7 @@ let navbar = `
     <a href="Mirage.html">Mirage</a>
     <a href="Inferno.html">Inferno</a>
     <a href="Vertigo.html">Vertigo</a>
+    <a href="Ancient.html">Ancient</a>
 </div>
 `
 
