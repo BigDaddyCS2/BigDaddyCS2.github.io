@@ -5,6 +5,7 @@ let navbar = `
     <a href="Inferno.html">Inferno</a>
     <a href="Vertigo.html">Vertigo</a>
     <a href="Ancient.html">Ancient</a>
+    <a href="DustII.html">Dust II</a>
 </div>
 `
 

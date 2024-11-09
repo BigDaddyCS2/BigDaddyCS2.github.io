@@ -62,6 +62,12 @@ body.ancient {
     height: 100vh;
 }
 
+body.dustii {
+    background: url("img/dustii.png") center center repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
 .smokeContainer {
     display: flex;
     flex-direction: column;
