@@ -33,7 +33,7 @@ h1 {
 }
 
 body.home {
-    background: url("img/home.png") center center no-repeat;
+    background: url("img/home.png") center center repeat;
     background-size: cover;
     height: 100vh;
 }
@@ -64,6 +64,12 @@ body.ancient {
 
 body.dustii {
     background: url("img/dustii.png") center center repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+body.nuke {
+    background: url("img/nuke.png") center center repeat;
     background-size: cover;
     height: 100vh;
 }
