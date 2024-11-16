@@ -74,6 +74,12 @@ body.nuke {
     height: 100vh;
 }
 
+body.train {
+    background: url("img/train.png") center center repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
 .smokeContainer {
     display: flex;
     flex-direction: column;

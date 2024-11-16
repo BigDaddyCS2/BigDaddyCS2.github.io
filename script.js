@@ -7,6 +7,7 @@ let navbar = `
     <a href="Ancient.html">Ancient</a>
     <a href="DustII.html">Dust II</a>
     <a href="Nuke.html">Nuke</a>
+    <a href="Train.html">Train</a>
 </div>
 `
 
