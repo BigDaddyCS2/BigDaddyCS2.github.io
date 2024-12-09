@@ -80,6 +80,12 @@ body.train {
     height: 100vh;
 }
 
+body.anubis {
+    background: url("img/anubis.png") center center repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
 .smokeContainer {
     display: flex;
     flex-direction: column;
